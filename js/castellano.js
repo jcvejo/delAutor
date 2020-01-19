@@ -24,7 +24,6 @@ aclaracion3:'Artículos científicos, académicos, técnicos, monografías, tesi
 aclaracion4:'Videojuegos, páginas web, e-mails, blogs y artículos digitales.',
 menu:'Menú',
 idioma:'Elegí tu idioma',
-elegir:'Elegir',
 subtitulomenu:'Cómo lo hacemos',
 subtitulomenu2:'Quiénes somos',
 subtitulomenu3:'Lo que hacemos',
@@ -56,7 +55,6 @@ document.getElementById('aclaracion3').innerHTML=castellano['aclaracion3'];
 document.getElementById('aclaracion4').innerHTML=castellano['aclaracion4'];
 document.getElementById('menu').innerHTML=castellano['menu'];
 document.getElementById('idioma').innerHTML=castellano['idioma'];
-document.getElementById('boton').value=castellano['elegir'];
 document.getElementById('subtitulomenu').innerHTML=castellano['subtitulomenu'];
 document.getElementById('subtitulomenu2').innerHTML=castellano['subtitulomenu2'];
 document.getElementById('subtitulomenu3').innerHTML=castellano['subtitulomenu3'];

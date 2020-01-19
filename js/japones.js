@@ -24,7 +24,6 @@ aclaracion3:'科学学術技術研究論文、学位論文やエッセイ。',
 aclaracion4:'ビデオゲーム、ウェブサイト, Eメール, ブログやデジタル記事。',
 menu:'メニュー',
 idioma:'対応言語',
-elegir:'選択',
 subtitulomenu:'業務のステップ',
 subtitulomenu2:'弊社について',
 subtitulomenu3:'我が社の業務内容',
@@ -56,7 +55,6 @@ document.getElementById('aclaracion3').innerHTML=japones['aclaracion3'];
 document.getElementById('aclaracion4').innerHTML=japones['aclaracion4'];
 document.getElementById('menu').innerHTML=japones['menu'];
 document.getElementById('idioma').innerHTML=japones['idioma'];
-document.getElementById('boton').value=japones['elegir'];
 document.getElementById('subtitulomenu').innerHTML=japones['subtitulomenu'];
 document.getElementById('subtitulomenu2').innerHTML=japones['subtitulomenu2'];
 document.getElementById('subtitulomenu3').innerHTML=japones['subtitulomenu3'];
